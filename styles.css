@@ -1,0 +1,22 @@
+body {
+  background-color: #c8d6fd; /*Zun's favourite colour*/
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.Sommario , h1 , h2 {
+  color: #0047AB;
+}
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.footer {
+  box-align: bottom;
+  width : 300px;
+  border: 5px #0047AB;
+  border-style:dotted;
+  padding-bottom: 0%;
+  margin: 10px;
+}
