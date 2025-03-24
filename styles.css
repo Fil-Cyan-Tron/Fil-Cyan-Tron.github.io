@@ -4,7 +4,7 @@ body {
   text-align: center;
 }
 h1 , h2 , h3 {
-  color: #0047AB;
+  color: #0047AB; /*FLT's favourite colour*/
 }
 footer {
   display: flex;
